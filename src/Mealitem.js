@@ -15,7 +15,7 @@ const Mealitem=(getMeal)=>{
                             <h2>Recipe</h2>
                             <p>{getMeal.data.strInstructions}</p>
                             <img src={getMeal.data.strMealThumb}/>
-                            <a href={getMeal.data.strSource}>Watch video</a>
+                            <a href={getMeal.data.strSource}>Read Full Recipe</a>
                         </div>
             </div>  
         
