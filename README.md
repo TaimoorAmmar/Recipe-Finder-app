@@ -3,7 +3,7 @@
 <h2> Overview </h2>
 <p>A simple application for finding food recipes and only delicious recipes are available.</p>
 <p>User can search for a particular food recipe and then hover to the prefered choice of food recipe.</p>
-<p>User can also click on watch video to see if there are any available videos for the recipe and read the full recipe on website</p>
+<p>User can also click on "Read Full Recipe" to read on its website</p>
 
 
 <h2> Technologies used </h2>
